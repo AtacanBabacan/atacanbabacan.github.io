@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to my Website!
-    text: This is the website where I share my personal projects
+    text: Atacan Aydoğan
     button: Have a look at my projects
     buttonlink: "#portfolio"
 
