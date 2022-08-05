@@ -1,8 +1,8 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Systems Design Project
+subtitle: Layout design for the exit area of a bolt warehouse
+image: assets/img/portfolio/project2.mp4
+alt: Warehouse Simulation
 
 caption:
   title: Explore
