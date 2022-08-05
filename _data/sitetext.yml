@@ -47,12 +47,12 @@ en: &DEFAULT_EN
       - title: "Bachelors in Industrial Engineering"
         year: "2016-2021"
         desc: "GPA: 3.22/4"
-        image: assets/img/timeline/t3.jpg
+        image: assets/img/timeline/3.jpg
         alt:
       - title: "System's Design Project Member"
         year: "September 2020 - July 2021"
         desc: "Project explanation available in portfolio"
-        image: assets/img/timeline/t2.jpg
+        image: assets/img/timeline/2.jpg
         alt:
       - title: "Prague School of Economics and Business"
         year: "2022-2024"
