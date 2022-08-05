@@ -15,6 +15,8 @@ Therefore, the aim of this project is to create a dynamic Power BI dashboard whe
 ### Project Planning and Data Discovery
 In the aim’s grid below you can see four components of the project which are: purpose, stakeholders, end result and success criteria. The aim of this project is presented clearly by this figure. IT team of Atliq hardware uses a MySQL database connected to their sales management system. This database will be the source of our Power BI dashboard.
 
+![image](https://user-images.githubusercontent.com/60602111/183215317-dbe70ae3-bc9d-4cec-9db8-4e27345562d3.png)
+
 {:.list-inline}
 - Date: July 2022
 - Client: Atliq Hardware
