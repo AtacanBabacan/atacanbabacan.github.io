@@ -1,13 +1,13 @@
 ---
 title: Sales Insights Data Analysis Project
 subtitle: Creating and automated dashboard for the sales of a hardware company
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+image: assets/img/portfolio/project1.jpg
+alt: PowerBI Dashboard
 
 caption:
   title: Threads
   subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/project1_thumbnail.jpg
 ---
 ### Problem Statement 
 Atliq Hardware is a company which manufactures computer hardware and peripherals. They supply these products to many stores across India. Sales director of this company is facing many challenges. The market is growing dynamically and sales director is having issues tracking the sales from different regions. He wants to track the trends in different markets in order to improve the operations of the business but in the current situation this tracking is flawed. This is crucial because, he needs to point out the issues where the sales are declining and also focus on the regions where the business is going good. Usually, sales director calls the regional managers on phone in order to gain insights on regional sales. This method can be misleading in terms of sales insights since there is a lot of room for human bias. Furthermore, when the sales volume is very diverse and large, the verbal communication over the phone is going to be inferior to visual representations when it comes to recognizing trends and patterns in the data. The regional managers, apart from the verbal communication, also deliver many excel files with huge number of rows. However, it is very time consuming to find the necessary insight on how the sales are going from these excel files.
