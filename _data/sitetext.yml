@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Have a look at my projects
     buttonlink: "#portfolio"
 
-  services:
+  skills:
     title: "Skills"
     text: "Lorem ipsum"
     section: skills
@@ -130,7 +130,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Contact Me"
     text: "If you want to learn more about me please leave a message below or call +90 5337607168"
     section: contact
     name: "Name*"
