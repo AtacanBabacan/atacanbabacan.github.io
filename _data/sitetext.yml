@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Welcome to my Website!
+    text: This is the website where I share my personal projects
+    button: Have a look at my projects
+    buttonlink: "#portfolio"
 
   services:
     title: "Services"
