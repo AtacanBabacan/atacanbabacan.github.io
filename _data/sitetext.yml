@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "Bachelors in Industrial Engineering"
         year: "2016-2021"
-        desc: "GPA: 3.22/4"
+        desc: "Middle East Technical university <br> GPA: 3.22/4"
         image: assets/img/timeline/3.jpg
         alt:
       - title: "System's Design Project Member"
