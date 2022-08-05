@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Have a look at my projects
     buttonlink: "#portfolio"
 
-  skills:
+  services:
     title: "Skills"
     text: "Lorem ipsum"
     section: skills
