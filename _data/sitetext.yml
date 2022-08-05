@@ -54,9 +54,9 @@ en: &DEFAULT_EN
         desc: "Project explanation available in portfolio"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Prague School of Economics and Business"
+      - title: "International Business - Central European Realities"
         year: "2022-2024"
-        desc: "International Business - Central European Realities"
+        desc: "Prague School of Economics and Business"
         image: assets/img/timeline/time1.jpg
         alt: image alt text
         # you can enforce the alignment
