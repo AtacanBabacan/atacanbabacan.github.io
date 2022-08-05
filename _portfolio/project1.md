@@ -1,6 +1,6 @@
 ---
 title: Sales Insights Data Analysis Project
-subtitle: Creating and automated dashboard for the sales of a hardware company
+subtitle: Creating an automated dashboard for the sales of a hardware company
 image: assets/img/portfolio/project1.png
 alt: PowerBI Dashboard
 
