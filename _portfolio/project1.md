@@ -5,8 +5,8 @@ image: assets/img/portfolio/project1.png
 alt: PowerBI Dashboard
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Sales Insights
+  subtitle: Data Analysis
   thumbnail: assets/img/portfolio/project1_thumbnail.png
 ---
 ### Problem Statement 
