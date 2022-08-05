@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Operations Research"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-solid fa-file-chart-column
+        icon: fas fa-file-chart-column
       - title: "Simulation"
         desc: "Your description here, full **Markdown** support"
         icon: fa-solid fa-cube
@@ -147,7 +147,7 @@ en: &DEFAULT_EN
      # - url: https://github.com/raviriley/agency-jekyll-theme
      #   icon: "fab fa-github"
       - url: https://soundcloud.com/user-602287072
-        icon: "fa-brands fa-soundcloud"
+        icon: "fab fa-soundcloud"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
