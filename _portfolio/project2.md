@@ -1,7 +1,7 @@
 ---
 title: Systems Design Project
 subtitle: Layout design for the exit area of a bolt warehouse
-image: assets/img/portfolio/project2.mp4
+image: assets/img/portfolio/project2.gif
 alt: Warehouse Simulation
 
 caption:
