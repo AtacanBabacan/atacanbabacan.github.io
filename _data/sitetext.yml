@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Skills"
-    text: "Lorem ipsum"
+    text: "I am energized by lifelong learning and I try to expand my knowledge and skills everyday"
     section: skills
     list:
       - title: "Data Analysis"
