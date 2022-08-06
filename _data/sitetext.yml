@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Work in progress."
+    text: "Here are the projects that I have completed. If you want to learn more about them please contact me at atacanaydogan@gmail.com"
     section: portfolio
     closebutton: "Close Project"
 
