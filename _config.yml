@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Atacan Aydoğan
 email      : atacanaydogan@gmail.com #this is also the email contact forms will go to
-description: "My name is Atacan Aydoğan and this my personal website where you can find my personal projects."
+description: "My name is Atacan Aydoğan and this is my personal website where you can find my projects."
 author     : Atacan Aydoğan
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
