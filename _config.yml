@@ -35,10 +35,9 @@ collections:
 
 markdown: kramdown
 
-
+formspree_form_path: "f/moqbagoe"
 
 plugins:
   - jekyll-remote-theme
  
- 
- #formspree_form_path: "f/2005028949326823039"
+
