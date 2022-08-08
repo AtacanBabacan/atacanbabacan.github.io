@@ -41,4 +41,4 @@ plugins:
   - jekyll-remote-theme
  
  
- formspree_form_path: "f/2005028949326823039"
+ #formspree_form_path: "f/2005028949326823039"
