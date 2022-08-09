@@ -126,7 +126,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "If you want to learn more about me please leave a message below or call +90 5337607168"
+    text: "If you want to reach out to me please leave a message below or call +90 5337607168"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
