@@ -65,8 +65,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Me"
-    text: "my story"
-    body: "![meimage](/assets/img/1660042046455.jpg) <br> My name is Atacan Aydoğan. I am pursuing an International Business Master's degree in Prague University of Economics and Business. I come from an engineering background, therefore, I have an analytical approach to problems. I am always trying to learn new things and build upon my interdisciplinary knowledge. I am open to work for part-time and full-time. If you like my projects and believe I can add value to your organization, please feel free to contact me"
+    text: "![meimage](/assets/img/1660042046455.jpg)"
+    body: "My name is Atacan Aydoğan. I am pursuing an International Business Master's degree in Prague University of Economics and Business. I come from an engineering background, therefore, I have an analytical approach to problems. I am always trying to learn new things and build upon my interdisciplinary knowledge. I am open to work for part-time and full-time. If you like my projects and believe I can add value to your organization, please feel free to contact me"
     section: about
 
 #  clients:
