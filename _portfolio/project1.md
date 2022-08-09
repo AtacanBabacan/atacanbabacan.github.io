@@ -17,7 +17,9 @@ In the aim’s grid below you can see four components of the project which are: 
 <br>
 ![image](https://user-images.githubusercontent.com/60602111/183215317-dbe70ae3-bc9d-4cec-9db8-4e27345562d3.png)
 
-Contact me at atacanaydogan@gmail.com or give me a call +90 5337607168 if you want to know more about this project.
+Contact me if you want to learn more about this project and work with me.
+E-mail: atacanaydogan@gmail.com
+GSM: +90 5337607168
 
 {:.list-inline}
 - Date: July 2022
