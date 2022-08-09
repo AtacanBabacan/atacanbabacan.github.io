@@ -18,7 +18,7 @@ In the aim’s grid below you can see four components of the project which are: 
 ![image](https://user-images.githubusercontent.com/60602111/183215317-dbe70ae3-bc9d-4cec-9db8-4e27345562d3.png)
 
 Contact me if you want to learn more about this project and work with me.
-E-mail: atacanaydogan@gmail.com
+<br>E-mail: atacanaydogan@gmail.com
 GSM: +90 5337607168
 
 {:.list-inline}
