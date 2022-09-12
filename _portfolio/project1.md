@@ -19,7 +19,7 @@ In the aim’s grid below you can see four components of the project which are: 
 
 Contact me if you want to learn more about this project and work with me.
 <br>E-mail: atacanaydogan@gmail.com
-GSM: +90 5337607168
+GSM: +420 722 922 430
 
 {:.list-inline}
 - Date: July 2022
