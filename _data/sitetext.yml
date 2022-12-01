@@ -59,6 +59,11 @@ en: &DEFAULT_EN
         desc: "Prague School of Economics and Business"
         image: assets/img/timeline/time1.jpg
         alt: image alt text
+      - title: "Data Layer Intern"
+        year: "2022-current"
+        desc: "Johnson & Johnson"
+        image: assets/img/timeline/4.jpg
+        alt: image alt text
         # you can enforce the alignment
         # align: right
     end: "Be Part <br> of My <br> Story!"
@@ -66,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
 #    text: ""
-    body: "![meimage](/assets/img/1660042046455.jpg) <br> <br> My name is Atacan Aydoğan. I am pursuing an International Business Master's degree in Prague University of Economics and Business. I come from an engineering background, therefore, I have an analytical approach to problems. I am always trying to learn new things and build upon my interdisciplinary knowledge. I am open to work for part-time and full-time. If you like my projects and believe I can add value to your organization, please feel free to contact me"
+    body: "![meimage](/assets/img/1660042046455.jpg) <br> <br> My name is Atacan Aydoğan. I am pursuing an International Business Master's degree in Prague University of Economics and Business. I come from an engineering background, therefore, I have an analytical approach to problems. I am always trying to learn new things and build upon my interdisciplinary knowledge. I am working part-time at Johnson & Johnson as a Data Layer Intern. If you are interested in my projects please feel free to to contact me."
     section: about
 
 #  clients:
