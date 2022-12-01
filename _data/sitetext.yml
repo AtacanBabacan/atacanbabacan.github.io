@@ -62,7 +62,7 @@ en: &DEFAULT_EN
       - title: "Data Layer Intern"
         year: "2022-current"
         desc: "Johnson & Johnson"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/jnj_logo.png
         alt: image alt text
         # you can enforce the alignment
         # align: right
