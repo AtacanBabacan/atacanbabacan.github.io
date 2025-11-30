@@ -67,7 +67,7 @@ en: &DEFAULT_EN
       - title: "Data Capability Process Engineer"
         year: "2024-current"
         desc: "AB InBev"
-        image: assets/img/timeline/abinbev-logo.svg
+        image: assets/img/timeline/abi_logo.jpg
         alt: 
         # you can enforce the alignment
         # align: right
