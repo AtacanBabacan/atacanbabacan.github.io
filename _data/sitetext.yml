@@ -76,7 +76,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
 #    text: ""
-    body: "![meimage](/assets/img/1660042046455.jpg) <br> <br> My name is Atacan Aydoğan. I have bachelor's in industrial engineering and master's in international business. I am working as a data engineer in AB InBev. In this page I share my personal projects. I always try to learn new things and build upon my interdisciplinary knowledge. If you are interested in my projects and would like to schedule a talk please feel free to to contact me."
+    body: "![meimage](/assets/img/1660042046455.jpg) <br> <br> My name is Atacan Aydoğan. I have a bachelor’s degree in industrial engineering and a master’s degree in international business. I am working as a data engineer in AB InBev. In this page I share my personal projects. I always try to learn new things and build upon my interdisciplinary knowledge. If you are interested in my projects and would like to schedule a talk please feel free to to contact me."
     section: about
 
 #  clients:
