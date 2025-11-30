@@ -58,12 +58,17 @@ en: &DEFAULT_EN
         year: "2022-2024"
         desc: "Prague School of Economics and Business"
         image: assets/img/timeline/time1.jpg
-        alt: image alt text
-      - title: "Data Layer Intern"
-        year: "2022-current"
+        alt: 
+      - title: "Data Layer Engineer"
+        year: "2022-2024"
         desc: "Johnson & Johnson"
         image: assets/img/timeline/jnj_logo.png
-        alt: image alt text
+        alt: 
+      - title: "Data Capability Process Engineer"
+        year: "2024-current"
+        desc: "AB InBev"
+        image: assets/img/timeline/abi_logo.png
+        alt: 
         # you can enforce the alignment
         # align: right
    # end: "Be Part <br> of My <br> Story!"
@@ -71,7 +76,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
 #    text: ""
-    body: "![meimage](/assets/img/1660042046455.jpg) <br> <br> My name is Atacan Aydoğan. I am pursuing an International Business Master's degree in Prague University of Economics and Business. I come from an engineering background, therefore, I have an analytical approach to problems. I am always trying to learn new things and build upon my interdisciplinary knowledge. I am working part-time at Johnson & Johnson as a Data Layer Intern. If you are interested in my projects please feel free to to contact me."
+    body: "![meimage](/assets/img/1660042046455.jpg) <br> <br> My name is Atacan Aydoğan. I have bachelor's in industrial engineering and master's in international business. I am working as a data engineer in AB InBev. In this page I share my personal projects. I always try to learn new things and build upon my interdisciplinary knowledge. If you are interested in my projects and would like to schedule a talk please feel free to to contact me."
     section: about
 
 #  clients:
@@ -131,7 +136,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "If you want to reach out to me please leave a message below or call +420 722 922 430"
+    text: "If you want to reach out to me please leave a message below"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
